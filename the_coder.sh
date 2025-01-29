@@ -6,4 +6,7 @@ mkdir students_directory
 touch students_directory/cohort-1.txt
 touch students_directory/cohort-2.txt
 touch students_directory/cohort-3.txt
-#echo "Santiana Kaze" >> cohort-1
+#I am going to write a name in cohort-1
+echo 'Santiana Kaze' >> cohort-1
+echo 'Ketsia Teta' >> cohort-1
+echo 'Manzi Arnaud' >> cohort-1
