@@ -7,14 +7,14 @@ touch students_directory/cohort-1.txt
 touch students_directory/cohort-2.txt
 touch students_directory/cohort-3.txt
 #I am going to add names in cohort-3.txt
-echo "Elyse" >> students_directory/cohort-3.txt
-echo "Teta" >> students_directory/cohort-3.txt
-echo "Christian" >> students_directory/cohort-3.txt
+echo -e "Elyse" >> students_directory/cohort-3.txt
+echo -e "Teta" >> students_directory/cohort-3.txt
+echo -e "Christian" >> students_directory/cohort-3.txt
 #I am going to write a name in cohort-1.txt
-echo 'Santiana Kaze' >> students_directory/cohort-1.txt
-echo 'Ketsia Teta' >> students_directory/cohort-1.txt
-echo 'Manzi Arnaud' >> students_directory/cohort-1.txt
+echo -e 'Santiana Kaze' >> students_directory/cohort-1.txt
+echo -e 'Ketsia Teta' >> students_directory/cohort-1.txt
+echo -e 'Manzi Arnaud' >> students_directory/cohort-1.txt
 #I am going to write names in cohort-2.txt
-echo 'Jean Marie' >> students_directory/cohort-2.txt
-echo 'Karangwa' >> students_directory/cohort-2.txt
-echo 'Titi' >> students_directory/cohort-2.txt
+echo -e 'Jean Marie' >> students_directory/cohort-2.txt
+echo -e 'Karangwa' >> students_directory/cohort-2.txt
+echo -e 'Titi' >> students_directory/cohort-2.txt
